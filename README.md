@@ -35,6 +35,9 @@ Includes:
 - Revenue by Customer Type
 - Invoice Status
 
+![Executive Overview](Images/Executive_Overview.png)
+
+---
 ### Fleet Operations
 
 Includes:
@@ -42,6 +45,11 @@ Includes:
 - Missions by Driver
 - Fleet Utilization
 - Distance Travelled
+
+![Fleet Operations](Images/Fleet_Operations.png)
+
+
+---
 
 ### Reservation Analytics
 
@@ -51,6 +59,10 @@ Includes:
 - Vehicle Type Demand
 - Revenue by Payment Type
 
+![Reservation Analytics](Images/Reservation_Analytics.png)
+
+---
+
 ## Skills Demonstrated
 
 - SQL Database Design
@@ -59,3 +71,7 @@ Includes:
 - DAX Measures
 - Power BI Dashboard Development
 - Business Intelligence Reporting
+
+---
+
+# Project Files
