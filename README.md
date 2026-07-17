@@ -74,3 +74,22 @@ Includes:
 
 ---
 
+# Project Files
+
+```text
+Dataset/
+└── Vehicle_Fleet_Analytics.xlsx
+
+SQL/
+├── 01_create_tables.sql
+├── 02_insert_data.sql
+└── 03_analysis_queries.sql
+
+PowerBI/
+└── Fleet_Management_Dashboard.pbix
+
+Images/
+├── Executive_Overview.png
+├── Fleet_Operations.png
+└── Reservation_Analytics.png
+```
